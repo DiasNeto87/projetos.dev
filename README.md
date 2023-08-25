@@ -13,7 +13,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="[https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000](https://www.figma.com/file/IYTcqo2KTWLakGs1ds1dSP/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?type=design&node-id=1437-191&mode=design&t=edeWqjAwdOKKGhne-4)">
 </p>
 
 <br>
