@@ -1,0 +1,53 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+.Calculadora {
+    width: 120%;
+    height: 660px;
+    bottom: auto;
+    margin: auto;
+    position: absolute;
+    overflow: hidden;
+    background-color: cadetblue;
+}
+
+.primeiro-numero {
+
+    height: 30px;
+}
+
+.segundo-numero {
+
+    height: 30px;
+}
+
+.Somar {
+    
+    color: blue;
+    height: 50px;
+
+}
+
+.Subtrair {
+
+    color: crimson;
+    height: 50px;
+   
+}
+
+.Multiplicar {
+
+    color: darkblue;
+    height: 50px;
+
+}
+
+.dividir {
+    color: forestgreen;
+    height: 50px;
+
+}
+  
